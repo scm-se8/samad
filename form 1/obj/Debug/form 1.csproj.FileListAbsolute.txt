@@ -1,0 +1,12 @@
+c:\users\sadaqat\documents\visual studio 2013\Projects\aqtel\form 1\bin\Debug\form 1.exe.config
+c:\users\sadaqat\documents\visual studio 2013\Projects\aqtel\form 1\bin\Debug\form 1.exe
+c:\users\sadaqat\documents\visual studio 2013\Projects\aqtel\form 1\bin\Debug\form 1.pdb
+c:\users\sadaqat\documents\visual studio 2013\Projects\aqtel\form 1\obj\Debug\form 1.csprojResolveAssemblyReference.cache
+c:\users\sadaqat\documents\visual studio 2013\Projects\aqtel\form 1\obj\Debug\form_1.Form1.resources
+c:\users\sadaqat\documents\visual studio 2013\Projects\aqtel\form 1\obj\Debug\form_1.Form2.resources
+c:\users\sadaqat\documents\visual studio 2013\Projects\aqtel\form 1\obj\Debug\form_1.Properties.Resources.resources
+c:\users\sadaqat\documents\visual studio 2013\Projects\aqtel\form 1\obj\Debug\form 1.csproj.GenerateResource.Cache
+c:\users\sadaqat\documents\visual studio 2013\Projects\aqtel\form 1\obj\Debug\form 1.exe
+c:\users\sadaqat\documents\visual studio 2013\Projects\aqtel\form 1\obj\Debug\form 1.pdb
+c:\users\sadaqat\documents\visual studio 2013\Projects\aqtel\form 1\obj\Debug\form_1.Form3.resources
+C:\Users\sadaqat\Documents\Visual Studio 2013\Projects\aqtel\form 1\obj\Debug\form_1.R_form.resources
